@@ -1,2 +1,1 @@
-![this is the ERD of the AirBnB project]
-(ERD.drawio.png)
+![this is the ERD of the AirBnB project](ERD.drawio.png)
